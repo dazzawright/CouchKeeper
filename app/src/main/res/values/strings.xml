@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CouchKeeper</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="title_activity_fetch_movies_list">FetchMoviesList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
